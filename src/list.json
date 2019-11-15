@@ -1,0 +1,9 @@
+{"success":true,"data":[
+    {"productID":103,"productName":"Christmas","qtyAvailable":1,"price":1.50, "image": "christmas.jpg", "selected": 1}, 
+    {"productID":108,"productName":"Pistacio","qtyAvailable":27,"price":1.25, "image": "pistacio.jpg" , "selected": 1},
+    {"productID":109,"productName":"Blue Icy","qtyAvailable":5,"price":1.25, "image": "blueicy.jpg", "selected": 1} ,
+    {"productID":121,"productName":"Strawberry","qtyAvailable":10,"price":1.25, "image": "strawberry.jpg", "selected": 1},
+    {"productID":134,"productName":"Original Glazed","qtyAvailable":5,"price":1, "image": "glazed.jpg", "selected": 1},
+    {"productID":156,"productName":"White Chocolate Glazed","qtyAvailable":23,"price":1.50, "image": "whitechocolate.jpg", "selected": 1}
+    ]
+}

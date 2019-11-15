@@ -1,0 +1,17 @@
+{
+  "name": "shoppingcart-test",
+  "version": "1.0.0",
+  "description": "Sample cart using PHP/JS",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
